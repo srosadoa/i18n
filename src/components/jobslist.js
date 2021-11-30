@@ -40,6 +40,7 @@ const JobsList = () => {
             <th scope="col">Salary</th>
             <th scope="col">City</th>
             <th scope="col">Publication date</th>
+            <th scope="col">Visits</th>
           </tr>
         </thead>
         <tbody>
