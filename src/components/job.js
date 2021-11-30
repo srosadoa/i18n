@@ -16,7 +16,7 @@ const Job = (props) => {
         day='numeric'
         weekday='long'
       /></td>
-      <td>{} </td>
+      <td>{}</td>
     </tr>
   );
 };
