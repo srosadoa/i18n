@@ -10,7 +10,7 @@ const JobsList = () => {
       salary: 4.5,
       city: "Bogotá, Colombia",
       date: "2019-03-26",
-      views: 10,
+      views: 15,
     },
     {
       id: "0002",
@@ -29,6 +29,7 @@ const JobsList = () => {
       city: "Cali, Colombia",
       date: "2019-03-28",
       views: 10,
+
     },
   ]);
 
@@ -43,7 +44,7 @@ const JobsList = () => {
             <th scope="col">Salary</th>
             <th scope="col">City</th>
             <th scope="col">Publication date</th>
-            <th scope="col">Visits</th>
+            <th scope="col">Views</th>
           </tr>
         </thead>
         <tbody>
